@@ -93,10 +93,10 @@ population: "9 million",
 sectors: "<p> Business Development, Community Development, Education, Environment, Health</p> ",
 languages: "Spanish and basic Haitian Kreyol",
 pcr: false,
-projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href="https://donate.peacecorps.gov/index.cfm?shell=donate.contribute.donatenow&amp;country=DR">Volunteer Projects in Dominican Republic</a></p> ",
+projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href=" ">Volunteer Projects in Dominican Republic</a></p> ",
 flickr_id: "72157626217383233",
-flag_image: “http://files.peacecorps.gov/uploads/countries/flags/Dominican_Republic.gif”,
-banner_image: “http://files.peacecorps.gov/uploads/countries/banners/dominicanrepublic.jpg”,
+flag_image: "http://files.peacecorps.gov/uploads/countries/flags/Dominican_Republic.gif",
+banner_image: "http://files.peacecorps.gov/uploads/countries/banners/dominicanrepublic.jpg",
 videos: [ ],
 medical_considerations: "",
 country_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/dominicanrepublic/",
@@ -118,14 +118,14 @@ population: "93,000",
 sectors: "<p> Business Development, Community Development, Education</p> ",
 languages: "English and French Creole (Kweyol)",
 pcr: false,
-projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href="http://donate.peacecorps.gov/index.cfm?shell=donate.contribute.donatenow&amp;country=lc">Donate to Volunteer Projects in Eastern Caribbean</a></p> ",
+projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href=" ">Donate to Volunteer Projects in Eastern Caribbean</a></p> ",
 flickr_id: "72157626217574219",
-flag_image: “http://files.peacecorps.gov/uploads/countries/flags/Eastern_Caribbean_1.jpg”,
-banner_image: “http://files.peacecorps.gov/uploads/countries/banners/easterncaribbean.jpg”,
+flag_image: "http://files.peacecorps.gov/uploads/countries/flags/Eastern_Caribbean_1.jpg",
+banner_image: "http://files.peacecorps.gov/uploads/countries/banners/easterncaribbean.jpg",
 videos: [ ],
 medical_considerations: "",
-country_page_url: “http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/easterncaribbean/”,
-mobile_country_page_url: “http://www.peacecorps.gov/mobile/where-volunteers-serve/easterncaribbean/”,
+country_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/easterncaribbean/",
+mobile_country_page_url: "http://www.peacecorps.gov/mobile/where-volunteers-serve/easterncaribbean/",
 country_site_url: " http://easterncaribbean.peacecorps.gov "
 },
 {
@@ -143,14 +143,14 @@ population: "3 million",
 sectors: "<p> Agriculture, Community Development, Education, Environment, Youth Development</p> ",
 languages: "Jamaican Patois",
 pcr: false,
-projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href="http://donate.peacecorps.gov/index.cfm?shell=donate.contribute.donatenow&amp;country=jm">Donate to Volunteer Projects in Jamaica</a></p> ",
+projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href=" ">Donate to Volunteer Projects in Jamaica</a></p> ",
 flickr_id: "72157626226192659",
-flag_image: “http://files.peacecorps.gov/uploads/countries/flags/Jamaica.gif”,
-banner_image: “http://files.peacecorps.gov/uploads/countries/banners/jamaica.jpg”,
+flag_image: "http://files.peacecorps.gov/uploads/countries/flags/Jamaica.gif",
+banner_image: "http://files.peacecorps.gov/uploads/countries/banners/jamaica.jpg",
 videos: [ ],
 medical_considerations: "",
-country_page_url: “http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/jamaica/”,
-mobile_country_page_url: “http://www.peacecorps.gov/mobile/where-volunteers-serve/jamaica/”,
+country_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/caribbean/jamaica/",
+mobile_country_page_url: "http://www.peacecorps.gov/mobile/where-volunteers-serve/jamaica/",
 country_site_url: " http://jamaica.peacecorps.gov"
 }
 ]
@@ -181,14 +181,14 @@ population: "250,000",
 sectors: "<p> Business and Organizational Development, Education, Health</p> ",
 languages: "Garifuna, Q'eqchi, Kriol, Mopan, and Spanish",
 pcr: false,
-projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href="http://donate.peacecorps.gov/index.cfm?shell=donate.contribute.donatenow&amp;country=bh">Donate to Volunteer Projects in Belize</a></p> ",
+projects_list: "<h2> Make a Contribution</h2> <p> Learn more about Volunteer projects and how your contribution helps.</p> <p> <a href=" ">Donate to Volunteer Projects in Belize</a></p> ",
 flickr_id: "72157625949111704",
-flag_image: “http://files.peacecorps.gov/uploads/countries/flags/Belize.gif”,
-banner_image: “http://files.peacecorps.gov/uploads/countries/banners/belize.jpg”,
+flag_image: "http://files.peacecorps.gov/uploads/countries/flags/Belize.gif",
+banner_image: "http://files.peacecorps.gov/uploads/countries/banners/belize.jpg",
 videos: [ ],
 medical_considerations: "",
-country_page_url: “http://www.peacecorps.gov/volunteer/learn/wherepc/centralamerica/belize/”,
-mobile_country_page_url: “http://www.peacecorps.gov/mobile/where-volunteers-serve/belize/”,
+country_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/centralamerica/belize/",
+mobile_country_page_url: "http://www.peacecorps.gov/mobile/where-volunteers-serve/belize/",
 country_site_url: "http://belize.peacecorps.gov "
 }
 
@@ -215,14 +215,14 @@ id: 16,
 name: "Africa",
 slug: "africa",
 description: "<p> Peace Corps Volunteers respond to various needs that impact Africa&#39;s development. These include the importance of HIV/AIDS prevention and education, girls&#39; education, the increasing pressures of environmental degradation, advances in information technology, and the democratization process that some countries are committed to supporting.</p> <p> Peace Corps has continued to develop a strong partnership with the people of Africa. Volunteers currently work in the areas of education, health and HIV/AIDS, business development, agriculture, and the environment.</p> ",
-region_page_url: “http://www.peacecorps.gov/volunteer/learn/wherepc/africa/”
+region_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/africa/"
 },
 {
 id: 13,
 name: "Asia",
 slug: "asia",
 description: "<p> Volunteers in Asia play important roles in helping people address changing and complex needs in the areas of education, business, the environment, and health.</p> ",
-region_page_url: “http://www.peacecorps.gov/volunteer/learn/wherepc/asia/”
+region_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/asia/"
 }
 ]
 
@@ -243,7 +243,7 @@ id: 10,
 name: "Central America and Mexico",
 slug: "centralamerica",
 description: "<p> Volunteers have the opportunity to experience the rich cultural heritage and geographic diversity that make any one of these Central American nations a challenging and rewarding country of service.</p> ",
-region_page_url: “http://www.peacecorps.gov/volunteer/learn/wherepc/centralamerica/”
+region_page_url: "http://www.peacecorps.gov/volunteer/learn/wherepc/centralamerica/"
 }
 
 
