@@ -26,7 +26,7 @@ ____
 | program_dates | String         | Country Peace Corps program dates. |
 | volunteers    | Number         | Number of active volunteers. |
 | cumulative    | Number         | Number of cumulative volunteers. |
-| popuplation   | String         | Population average.        |
+| population    | String         | Population average.        |
 | sectors       | Text           | Peace Corps program sectors. |
 | languages     | String         | Languages spoken.          |
 | pcr           | Boolean        | Peace Corps Response       |
